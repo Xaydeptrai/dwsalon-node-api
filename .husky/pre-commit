@@ -1,5 +1,1 @@
-#!/bin/sh
-. "$(dirname "$0")/_/husky.sh"
-
-# Chạy lint-staged để kiểm tra và sửa lỗi theo tiêu chuẩn
 npx lint-staged
